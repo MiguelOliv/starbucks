@@ -387,6 +387,10 @@ section a {
   .footer {
     text-align: center;
   }
+
+  .footer .social {
+    justify-content: center;
+  }
 }
 
 @media (max-width: 960px) {
